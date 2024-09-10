@@ -1,0 +1,22 @@
+question = ["4K On Demand Video",
+            "4K Live Video",
+            "3K Cloud VR",
+            "Airplanes connectivity",
+            "Indoor hotspot",
+            "High-speed train",
+            "I want internet access with fast browsing service in the airoplane.",
+            "I want a strong connection to a hotspot inside the office.",
+            "I want a reliable internet connection while I am on the high speed train.",
+            "I want to play a virtual reality game without feeling motion sickness."]
+
+ground_truth = ["Scenario Type : 4K On Demand Video,  Key Performance Factors: Data Rate/Throughput (downlink):30 Mbps , Delay:RTT < 100 ms, Packet Loss Rate:10-3 , Resolution: 4K, Coverage Level CSI RSRP:-113 dBm , Coverage Quality CSI SINR:-2 dB",
+                "Scenario Type : 4K Live Video,  Key Performance Factors: Data Rate/Throughput (downlink): 40 Mbps, Delay:RTT < 100 ms, Packet Loss Rate:10-3 , Resolution: 4K, Coverage Level CSI RSRP:-110 dBm , Coverage Quality CSI SINR:-1 dB",
+                "Scenario Type : 3K Cloud VR (Game),  Key Performance Factors: Data Rate/Throughput (downlink): 100 Mbps, Delay:RTT < 25 ms, Packet Loss Rate:10-3 (TCP) 10-2 (UDP), Resolution: 3K, Coverage Level CSI RSRP:-107 dBm , Coverage Quality CSI SINR:2 dB",
+                "Scenario Type : Airplanes connectivity,  Key Performance Factors: Experienced data rate (DL): 15 Mbps, Experienced data rate (UL): 7.5 Mbps, Area traffic capacity (DL): 1,2 Gbps/plane,Area traffic capacity (UL): 600 Mbps/plane, Overall user density: 400/plane, Activity factor: 20 %, UE speed: Users in airplanes (up to 1000 km/, Coverage: note 1",
+                "Scenario Type : Indoor hotspot,  Key Performance Factors: Experienced data rate (DL): 1 Gbps, Experienced data rate (UL): 500 Mbps, Area traffic capacity (DL): 15 Tbps/km2,Area traffic capacity (UL): 2 Tbps/km2, Overall user density: 250 000/km2, Activity factor: note 2, UE speed: Pedestrians, Coverage: Office and residential (note 2) (note 3)",
+                "Scenario Type : High-speed train,  Key Performance Factors: Experienced data rate (DL): 50 Mbps, Experienced data rate (UL): 25 Mbps, Area traffic capacity (DL): 15 Gbps/train,Area traffic capacity (UL): 7,5 Gbps/train, Overall user density: 1 000/train, Activity factor: 30 %, UE speed: Users in trains (up to 500 km/h), Coverage: Along railways (note 1)",
+                "Scenario Type : Airplanes connectivity,  Key Performance Factors: Experienced data rate (DL): 15 Mbps, Experienced data rate (UL): 7.5 Mbps, Area traffic capacity (DL): 1,2 Gbps/plane,Area traffic capacity (UL): 600 Mbps/plane, Overall user density: 400/plane, Activity factor: 20 %, UE speed: Users in airplanes (up to 1000 km/, Coverage: note 1",
+                "Scenario Type : Indoor hotspot,  Key Performance Factors: Experienced data rate (DL): 1 Gbps, Experienced data rate (UL): 500 Mbps, Area traffic capacity (DL): 15 Tbps/km2,Area traffic capacity (UL): 2 Tbps/km2, Overall user density: 250 000/km2, Activity factor: note 2, UE speed: Pedestrians, Coverage: Office and residential (note 2) (note 3)",
+                "Scenario Type : High-speed train,  Key Performance Factors: Experienced data rate (DL): 50 Mbps, Experienced data rate (UL): 25 Mbps, Area traffic capacity (DL): 15 Gbps/train,Area traffic capacity (UL): 7,5 Gbps/train, Overall user density: 1 000/train, Activity factor: 30 %, UE speed: Users in trains (up to 500 km/h), Coverage: Along railways (note 1)",
+                "Scenario Type : 3K Cloud VR (Game),  Key Performance Factors: Data Rate/Throughput (downlink): 100 Mbps, Delay:RTT < 25 ms, Packet Loss Rate:10-3 (TCP) 10-2 (UDP), Resolution: 3K, Coverage Level CSI RSRP:-107 dBm , Coverage Quality CSI SINR:2 dB"]
+
